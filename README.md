@@ -1,2 +1,2 @@
 # pro
-series of local projects
+series of local projects.
